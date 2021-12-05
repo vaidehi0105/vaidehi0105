@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **vaidehibedekar0105@gmail.com**
 
+![936378](https://user-images.githubusercontent.com/72137592/144736095-2a69614d-40cc-4de5-b44c-5a4c0dbc40d4.jpg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaidehi bedekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaidehi bedekar" height="30" width="40" /></a>
