@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Bedekar</h1>
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine learning and Deep Learning**
 
 - 📫 How to reach me **vaidehibedekar0105@gmail.com**
 
